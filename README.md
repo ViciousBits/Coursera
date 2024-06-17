@@ -6,3 +6,7 @@ This is a Coursera Repo
   * one
   * two
   * three
+
+### Gist
+
+This is a Gist
